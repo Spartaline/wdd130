@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+
+#content{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+nav a {
+    text-decoration: none;
+    color:white;
+    text-align: center;
+    padding: 35px;
+    
+}
+#hero-msg h1, #hero-msg h4 {
+    text-align: center;
+}
+.button-box {
+    text-align: center;
+}
+main section {
+    text-align: center;
+}
+#background {
+    height: 725px;
+}
+body {
+    background-color: white;
+    font-family: Acme,"Source-Sans-Pro", Helvetica, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0; 
+}
+h2 {
+    margin: 0;
+}
+header {
+    background-color:#053C55  ;
+}
+nav a:hover {
+    background-color:#A57D56  ;
+    color: white;
+}
+.book , .join {
+    background-color:white ;
+    color: blue;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.book:hover, .join:hover {
+    background-color:#A57D56 ;
+    color: #3b99f8;
+}
+#background {
+    background-color:rgb(20, 148, 228) ;
+}
+.msg{
+    background-color: #053C55;
+    line-height: 1.5em;
+    padding: 35px;
+}
+footer {
+    background-color:#053C55;
+    color: white;
+    padding: 25px 50px;
+    margin-top: 200px;
+}
+.home-title {
+    color: white;
+    font-family: Acme, "Source-Sans-Pro", Helvetica, sans-serif;  
+    font-size: 2em;
+    margin-top: 10px;
+}
+h4{
+    color:#A57D56 ;
+}
+.msg h2 {
+    color:#A57D56 ;
+    font-family: Acme,"Source-Sans-Pro", Helvetica, sans-serif; 
+}
+.msg p {
+    color: white;
+    font-size: .8em;
+    padding-bottom: 15px;
+}
+footer a {
+    color: white;
+    text-decoration: none;
+}
+footer a:hover {
+    color: #A57D56;
+}
+.logo {
+    width: 80px;
+}
+.icon {
+    width: 80px;
+    padding-top: 10px ;
+}
+#hero-img {
+    width: 100%;
+}
+footer p {
+    font-size: 1.2em;
+}
+footer p:hover {
+    text-decoration: underline;
+}
+#logo_link{
+    padding-top: 5px;
+}
+footer .social img {
+    padding-top: 15px;
+}
+.river-card, .camping-card, .rapids-card {
+    margin: 200px 0;
+}
+.card-img {
+    border: 10px solid #A57D56 ;
+}
+main section img {
+    box-sizing: border-box;
+}
